@@ -41,4 +41,4 @@ def init():
 
 if __name__ == '__main__':
     init()
-    stream.filter(follow=['930260779332505600'])
+    stream.filter(follow=['2414818604', '930260779332505600'])
